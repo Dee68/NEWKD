@@ -20,7 +20,6 @@ NEWKD: LOGIN
               <form action="{% url 'account:signin' %}" method="POST" class="mt-5">
                 {% csrf_token %}
                 <!-- partial messages goes here -->
-                {% include 'includes/messages.html' %}
                 <div class="mb-3 form-group">
                     <div class="input-group">
                     <span class="input-group-text"><i class="fa-solid fa-user"></i></span>

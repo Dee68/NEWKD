@@ -33,7 +33,7 @@ DEBUG = True
 
 # Ask collaborators to add their host in the list below
 
-ALLOWED_HOSTS = ['newkd.herokuapp.com', 'localhost', '8000-dee68-newkd-7s83psa12zu.ws-eu98.gitpod.io', '8000-viacheslav1510-newkd-1iofxe4d47y.ws-eu98.gitpod.io', '8000-viacheslav1510-newkd-2llxbql42sk.ws-eu98.gitpod.io']
+ALLOWED_HOSTS = ['newkd.herokuapp.com', 'localhost', '8000-dee68-newkd-rmk026vh1io.ws-eu99.gitpod.io', '8000-viacheslav1510-newkd-1iofxe4d47y.ws-eu98.gitpod.io', '8000-viacheslav1510-newkd-2llxbql42sk.ws-eu98.gitpod.io']
 
 
 # Application definition
